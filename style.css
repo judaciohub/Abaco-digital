@@ -43,3 +43,14 @@ h1 {
   color: #444;
 }
 
+.conta {
+  width: 120px;
+  height: 30px;
+  border-radius: 5px;
+  position: absolute;
+  left: 5px;
+  cursor: pointer;
+  transition: top 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
